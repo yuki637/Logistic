@@ -1,0 +1,8 @@
+name = "logistic"
+uuid = "ca8459e8-1f74-4a69-a58c-7211427e6fc3"
+authors = ["Yuki Yamasaki <y.yamasaki.510@ms.saitama-u.ac.jp>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
